@@ -27,7 +27,11 @@ Shihab Alzakwani
 
 ### Refrences
 https://data.wprdc.org/dataset/allegheny-county-covid-19-vaccinations
+
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f
+
 https://data.wprdc.org/dataset/neighborhoods-with-snap-data/resource/bce22c26-9d3e-4e3f-8405-a35c4b7765b6
+
 https://data.wprdc.org/dataset/pittsburgh-neighborhood-atlas-1977
+
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-data-household-types/resource/74deca7d-b398-4137-83d7-553a7162f464
