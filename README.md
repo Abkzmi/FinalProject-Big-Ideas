@@ -1,6 +1,7 @@
 # FinalProject-Big-Ideas
 ## Project Title: Best Neighborhood in Pittsburgh to Raise a Family
 ##### Team Name: Eastern Eagles
+##### Group Number: 3
 
 Welcome to the Eastern Eagles' project on finding the best neighborhood in Pittsburgh to raise a family! Our team, consisting of Abdulrahman Alhazmi and Shihab Alzakwani, has conducted an in-depth analysis of various factors to identify the most family-friendly neighborhood in Pittsburgh.
 
@@ -23,3 +24,10 @@ Our team, the Eastern Eagles, consists of two members:
 
 Abdulrahman Alhazmi
 Shihab Alzakwani
+
+### Refrences
+https://data.wprdc.org/dataset/allegheny-county-covid-19-vaccinations
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f
+https://data.wprdc.org/dataset/neighborhoods-with-snap-data/resource/bce22c26-9d3e-4e3f-8405-a35c4b7765b6
+https://data.wprdc.org/dataset/pittsburgh-neighborhood-atlas-1977
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-data-household-types/resource/74deca7d-b398-4137-83d7-553a7162f464
